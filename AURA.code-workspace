@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AURA",
+			"path": "../../../.vscode/codes/AURA"
+		},
+		{
+			"name": "ace_python",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
