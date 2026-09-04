@@ -7,6 +7,8 @@ ACE is a general-purpose AI computer-use assistant for Windows. Instead of relyi
 You can interact with ACE using text or voice, including **English, Hindi, Telugu, and mixed-language speech**.
 
 ---
+## How to use
+Download the latest release of the .exe, install it and run it.
 
 ## ✨ Features
 
