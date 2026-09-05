@@ -8,7 +8,7 @@ You can interact with ACE using text or voice, including **English, Hindi, Telug
 
 ---
 ## How to use
-Download the latest release of the .exe, install it and run it.
+Download the latest release of the zip file,extract the file and run the .exe file 
 
 ## ✨ Features
 
